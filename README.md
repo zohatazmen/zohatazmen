@@ -1,3 +1,4 @@
+![logo](https://github.com/zohatazmen/zohatazmen/blob/main/Golden%20Red%20Grand%20Opening%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Zoha Tazmen</h1>
 <h3 align="center">Hi, I'm Zoha Tazmen, a passionate computer science student currently in my fourth semester of BS CS with a CGPA of 3.82. I have a strong foundation in programming with skills in C, C++, Java, databases, data structures and algorithms, Python, and HTML. I'm always learning new programming languages to expand my skills and stay up-to-date with the latest technologies.</h3>
 
