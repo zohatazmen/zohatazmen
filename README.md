@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zoha Tazmen</h1>
 <h3 align="center">Hi, I'm Zoha Tazmen, a passionate computer science student currently in my sixth semester of BS CS with a CGPA of 3.9. I have a strong foundation in programming. I'm always learning new programming languages to expand my skills and stay up-to-date with the latest technologies.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F404icy.tumblr.com%2F&psig=AOvVaw1S1vQP25pvAJbjn4aNDS8q&ust=1712473640858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC73fiDrYUDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F404icy.tumblr.com%2F&psig=AOvVaw1S1vQP25pvAJbjn4aNDS8q&ust=1712473640858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC73fiDrYUDFQAAAAAdAAAAABAK.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohatazmen&label=Profile%20views&color=0e75b6&style=flat" alt="zohatazmen" /> </p>
 
