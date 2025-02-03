@@ -1,6 +1,6 @@
 ![logo](https://github.com/zohatazmen/zohatazmen/blob/main/linkedin%20banner.png)
 <h1 align="center">Hi 👋, I'm Zoha Tazmen</h1>
-<h3 align="center">Hi, I'm Zoha Tazmen, a passionate computer science student currently in my seventh semester of BS CS with a CGPA of 3.87. I have a strong foundation in programming. I'm always learning new programming languages to expand my skills and stay up-to-date with the latest technologies.</h3>
+<h3 align="center">Hi, I'm Zoha Tazmen, a passionate computer science student currently in my seventh semester of BS CS with a CGPA of 3.9. I have a strong foundation in programming. I'm always learning new programming languages to expand my skills and stay up-to-date with the latest technologies.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
