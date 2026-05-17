@@ -89,16 +89,16 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohatazmen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zohatazmen" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohatazmen&show_icons=true&locale=en&theme=tokyonight" alt="zohatazmen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohatazmen&theme=tokyonight" alt="zohatazmen" /></p>
-
----
+### 📊 GitHub Stats:
 
 <p align="center">
-  <i>"The best way to predict the future is to build it — one line of code (and one robot) at a time."</i> 🤖💡
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohatazmen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zohatazmen&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zohatazmen&theme=tokyonight" alt="GitHub Streak" />
 </p>
