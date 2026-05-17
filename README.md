@@ -89,13 +89,6 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohatazmen&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohatazmen&show_icons=true&locale=en&theme=tokyonight&cache_seconds=86400&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zohatazmen&theme=tokyonight" alt="GitHub Streak" />
