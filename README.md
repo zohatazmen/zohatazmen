@@ -1,4 +1,4 @@
-![logo](https://github.com/zohatazmen/zohatazmen/blob/main/linkedin%20banner.png)
+![logo](https://github.com/zohatazmen/zohatazmen/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Zoha Tazmen</h1>
 
